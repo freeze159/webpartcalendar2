@@ -1,0 +1,39 @@
+.top_header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.top_header label{
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+.header_btn .ms-Button{
+    background-color: transparent;
+    border: none;
+}
+.content{
+    margin-top: 10px;
+}
+.group{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.group label{
+    padding: 0;
+    font-weight: bold;
+    font-size: 12px;
+}
+.group hr{
+    width: 35px;
+}
+.left{
+    width: 15%;
+    padding: 5px;
+    text-align: center;
+    border: 1px solid black;
+    margin-right: 15px;
+    
+}

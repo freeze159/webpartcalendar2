@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "calendar-2-client-side-solution",
+    "id": "bbc2a38b-9033-4ca7-ba7b-51470eeedb07",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/calendar-2.sppkg"
+  }
+}
